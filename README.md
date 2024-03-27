@@ -1,1 +1,1 @@
-"# TypeScript-Calculator" 
+"TypeScript-Calculator" 
